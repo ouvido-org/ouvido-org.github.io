@@ -1,2 +1,2 @@
-# ouvido-org.github.io
+# ouvido
 ouvido.org
